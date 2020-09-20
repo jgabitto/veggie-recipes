@@ -1,6 +1,6 @@
 const { google } = require('googleapis');
+const { LINK } = require('../../config/constants');
 
-const LOCAL_LINK = "http://localhost:3000/loginGoogle";
 
 
 
